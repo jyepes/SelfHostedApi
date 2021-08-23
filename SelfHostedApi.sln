@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostConsoleApp", "SelfH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{33DC1AE5-A939-452E-B054-47857A9F217F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService_HostAPI", "WindowsService_HostAPI\WindowsService_HostAPI.csproj", "{E5A14BAC-A6CD-4415-B0E9-05607243A4B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{33DC1AE5-A939-452E-B054-47857A9F217F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33DC1AE5-A939-452E-B054-47857A9F217F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33DC1AE5-A939-452E-B054-47857A9F217F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A14BAC-A6CD-4415-B0E9-05607243A4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A14BAC-A6CD-4415-B0E9-05607243A4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A14BAC-A6CD-4415-B0E9-05607243A4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A14BAC-A6CD-4415-B0E9-05607243A4B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
